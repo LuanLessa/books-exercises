@@ -17,4 +17,3 @@ A palavra RESTART e o caminho do programa.
 
 ## 5 - What is another word for running a program?
 Run Module.
-

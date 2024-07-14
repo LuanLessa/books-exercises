@@ -5,3 +5,4 @@ Exercícios e atividades dos livros que li ou estou lendo atinentes a Ciências 
 
 ### Hello World! Third Edition Computer Programming for Kids and Other Beginners
  - Capítulo 1 - Concluído.
+ - Capítulo 2 - Concluído.
